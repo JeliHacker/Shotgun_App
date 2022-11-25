@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "white-claw-black-cherry-us.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "white-claw-black-cherry-us@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "white-claw-black-cherry-us@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
